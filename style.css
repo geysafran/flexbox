@@ -1,0 +1,150 @@
+#body {
+	background-color: #fff;
+	color: #fff;
+}
+
+#header {
+ 	background-color: pink;
+	padding: 10px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+h1 {
+	color: #000;
+}
+
+#main { 	
+	display: flex;
+	justify-content: center;
+	flex-wrap: row-wrap;
+	width: 100%;
+
+
+
+}
+
+.menulist ul { 
+	text-decoration: none;
+	list-style: none;
+	color: #000;
+	display: flex;
+
+
+}
+.list {
+	display: flex;
+	align-items: baseline;
+}
+
+.item {
+	padding: 10px;
+
+}
+#container1 {
+	background-color: tomato;
+	padding: 20px;
+	border-style: solid;
+	border-color: red;
+	border-width: 2px;
+	
+	margin: 20px;
+	width: 300px;
+	height: 300px;
+	
+
+
+
+}
+
+#container2 {
+	background-color: tomato;
+	padding: 20px;
+	border-style: solid;
+	border-color: red;
+	border-width: 2px;
+	
+	margin: 20px;
+	width: 300px;
+	height: 300px;
+	
+
+}
+
+#container3 {
+	background-color: tomato;
+	padding: 20px;
+	border-style: solid;
+	border-color: red;
+	border-width: 2px;
+
+	margin: 20px;
+	width: 300px;
+	height: 300px;
+	
+
+
+
+}
+
+#container4 {
+	background-color: tomato;
+	padding: 20px;
+	border-style: solid;
+	border-color: red;
+	border-width: 2px;
+	margin: 20px;
+	width: 300px;
+	height: 300px;
+	
+
+
+}
+
+.h21 { 
+	color: #000;
+	font-size: 20px;
+
+}
+
+.h2 {
+	color: #000;
+	font-size: 20px;
+
+}
+
+.h23 {
+	color: #000;
+	font-size: 20px;
+
+
+}
+
+.h24 {
+	color: #000;
+	font-size: 20px;
+
+
+}
+
+.p { 
+	font-size: 15px;
+
+}
+
+.p2 {
+	font-size: 15px;
+
+}
+
+.p3 {
+	font-size: 15px;
+
+
+}
+
+.p4 {
+	font-size: 15px;
+
+}
